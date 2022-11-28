@@ -1,0 +1,3 @@
+#SampleID	Adapter_1	ForwardFastqGZ	
+Sample_2	AGATCGGAAGAGC	Sample_1_S22_R1_001.fastq.gz
+Sample_2	AGATCGGAAGAGC	Sample_2_S23_R1_001.fastq.gz
